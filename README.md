@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @maryambhatti92
 - 👀 I’m interested in full stack web development and specialize in MVC ASP .NET, JQuery, React and Agile framework
 - 🌱 I’m currently learning react and overall full stack development
-- 💞️ I’m looking to collaborate on paid projects
+- 💞️ I’m looking to collaborate on teachinal challenging projects and benefit all stakeholders!
 - 📫 How to reach me: maryambhatti92@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact:  group of owls is called a parliament. haha!
