@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @maryambhatti92
-- 👀 I’m interested in web development
+- 👀 I’m interested in full stack web development and specialize in MVC ASP .NET, JQuery, React and Agile framework
 - 🌱 I’m currently learning react and overall full stack development
 - 💞️ I’m looking to collaborate on paid projects
 - 📫 How to reach me: maryambhatti92@gmail.com
